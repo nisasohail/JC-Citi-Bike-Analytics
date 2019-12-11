@@ -1,17 +1,5 @@
-# Tableau Homework - Citi Bike Analytics
-
-### Before You Begin
-
-* This assignment will be saved to your tableau public account rather than github. 
-
-* If you haven't already, be sure to create a tableau public account [here](https://public.tableau.com/s/).
-
-* The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
-
+# Citi Bike Analytics
+ 
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
@@ -23,12 +11,6 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 ## Task
-
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
-
-**Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
-
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
 * How many trips have been recorded total during the chosen period?
 
@@ -82,27 +64,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
 
-## Submission 
-
-Your final submission should include:
-
-* A link to your Tableau Public workbook that includes: 
-  * 4-10 Total "Phenomenon" Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
-  * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
-
 
 ## Hints
 
@@ -130,8 +91,3 @@ Your final product will be assessed on the following metrics:
 
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
 
-* Good luck!
-
-### Copyright
-
-Data Boot Camp (C) 2019. All Rights Reserved.
