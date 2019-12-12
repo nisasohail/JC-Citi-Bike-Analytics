@@ -1,4 +1,4 @@
-# Jersey Cit, New Jersey - Citi Bike Analytics
+# Jersey City, New Jerse - Citi Bike Analytics
 
 I have used three different dataset and combined them via jupyter note. Then created different type if vizz via Tableau.
  
