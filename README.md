@@ -1,4 +1,4 @@
-# Jersey City, New Jersey (Citi Bike Analytics)
+# Jersey City, New Jersey - Citi Bike Analytics
  
 ## Background
 
