@@ -1,6 +1,6 @@
 # Jersey City, New Jersey - Citi Bike Analytics
 
-I have used three differen dataset and combined them via jupyter note. Then created different type if vizz via Tableau.
+I have used three different dataset and combine them via jupyter note. Then created different type if vizz via Tableau.
  
 ## Background
 
